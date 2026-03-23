@@ -258,15 +258,87 @@
     "has_system": false
   },
   {
-    "name": "battle-zoo-s-ancestries-dragon-s-deep-magic-tomes-of-heros-ebon-tides-",
-    "description": "list of races of these books",
+    "name": "Battlezoo Ancestries Dragons+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
     "tags": [
       "5e",
       "homebrew"
     ],
     "stars": 0,
-    "github_repo": "derpsyhome/battle-zoo-s-ancestries-dragon-s-deep-magic-tomes-of-heros-ebon-tides-",
-    "repo_url": "https://derpsyhome.github.io/battle-zoo-s-ancestries-dragon-s-deep-magic-tomes-of-heros-ebon-tides-/",
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Tome of Heros+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Book of Ebon Tides+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Grand Species Almanac+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Homblewood+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Myconid Race+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Valdas Spire of Secrets+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
     "has_system": false
   },
   {
