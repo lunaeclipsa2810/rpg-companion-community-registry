@@ -10,7 +10,7 @@
     ],
     "repo_url": "https://d2dmd8x0lyn9l8.cloudfront.net",
     "github_repo": "blastervla/rpg-companion-app-systems",
-    "stars": 8
+    "stars": 9
   },
   {
     "id": "subclasses_2024",
@@ -483,8 +483,8 @@
     "name": "New-Underdark-Monster",
     "description": "These monsters hunt either solo or in packs of 3-5 (There Family). They feast on humanoids and even baby shadow dragons. They are highly I teligent and add a great threat to tour world",
     "tags": [
-        "5e",
-        "homebrew"
+      "5e",
+      "homebrew"
     ],
     "stars": 0,
     "github_repo": "XenoPlank/New-Underdark-Monster",
