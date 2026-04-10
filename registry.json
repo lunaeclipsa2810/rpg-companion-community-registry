@@ -514,5 +514,16 @@
     "github_repo": "XenoPlank/Vedalkin",
     "repo_url": "https://XenoPlank.github.io/Vedalkin/",
     "has_system": false
+  },
+  {
+    "name": "half-elf-hobgoblin-and-merfolk-update",
+    "description": "added Half elf subspecies, hobgoblins and merfolk.",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "lunaeclipsa2810/half-elf-hobgoblin-and-merfolk-update",
+    "repo_url": "https://lunaeclipsa2810.github.io/half-elf-hobgoblin-and-merfolk-update/",
+    "has_system": false
   }
 ]
