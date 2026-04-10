@@ -525,5 +525,16 @@
     "github_repo": "lunaeclipsa2810/half-elf-hobgoblin-and-merfolk-update",
     "repo_url": "https://lunaeclipsa2810.github.io/half-elf-hobgoblin-and-merfolk-update/",
     "has_system": false
+  },
+  {
+    "name": "merfolk-and-Hobgoblin",
+    "description": "attempted to add merfolk and Hobgoblin",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "lunaeclipsa2810/merfolk-and-Hobgoblin",
+    "repo_url": "https://lunaeclipsa2810.github.io/merfolk-and-Hobgoblin/",
+    "has_system": false
   }
 ]
